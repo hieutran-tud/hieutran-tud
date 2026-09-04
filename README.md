@@ -9,8 +9,8 @@ built from first principles.
 
 I’m currently a Student Research Assistant at **TU Darmstadt**, working on
 REUNION: an NLP system for extracting structured technical data from PDF
-documents. The central idea is simple—give a model the right evidence and
-structure before asking it to reason—then measure whether the answer is
+documents. The central idea is simple-give a model the right evidence and
+structure before asking it to reason-then measure whether the answer is
 actually supported by the source.
 
 ## What I’m working on
