@@ -2,23 +2,13 @@
 
 ### Machine Learning Engineer · Applied AI · Research-minded builder
 
-I build machine-learning systems that turn messy real-world data into
-structured, testable, and useful outputs. My work sits at the intersection of
-document intelligence, local LLM inference, retrieval, and neural networks
-built from first principles.
+building machine-learning systems that turn messy real-world data into
+structured, testable, and useful outputs.
 
-I’m currently a Student Research Assistant at **TU Darmstadt**, working on
-REUNION: an NLP system for extracting structured technical data from PDF
-documents. The central idea is simple-give a model the right evidence and
-structure before asking it to reason-then measure whether the answer is
-actually supported by the source.
+Student Research Assistant at **TU Darmstadt**
 
 ## What I’m working on
 
-- **Graph-guided document extraction:** selecting relevant knowledge-graph
-  regions before LLM inference so long technical documents remain tractable.
-- **Faithful structured outputs:** combining extraction with serving-time
-  CrossEncoder scoring to estimate support from the source evidence.
 - **Physical-quantity understanding:** parsing unit strings into typed,
   algebraically operable quantities rather than leaving them as plain text.
 - **Efficient local inference:** tuning quantization and inference engines for
