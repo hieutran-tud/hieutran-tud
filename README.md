@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer · Applied AI
 
-building machine-learning systems that turn messy real-world data into
+Building machine-learning systems that turn messy real-world data into
 structured, testable, and useful outputs.
 
 Student Research Assistant at **TU Darmstadt**
