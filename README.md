@@ -1,6 +1,6 @@
 # Hey, Here's is Harry
 
-### Machine Learning Engineer · Applied AI · Research-minded builder
+### Machine Learning Engineer · Applied AI
 
 building machine-learning systems that turn messy real-world data into
 structured, testable, and useful outputs.
