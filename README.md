@@ -7,7 +7,7 @@ structured, testable, and useful outputs.
 
 Student Research Assistant at **TU Darmstadt**
 
-## What I’m working on
+## Current Work
 
 - **Physical-quantity understanding:** parsing unit strings into typed,
   algebraically operable quantities rather than leaving them as plain text.
@@ -25,7 +25,7 @@ topology, gradients, optimization, and geometry interact through configurable
 MLPs, neural regression, probabilistic classification, GANs, and WGANs. The
 repository also contains end-to-end synthetic and MNIST notebooks.
 
-## My approach
+## Approach
 
 > A strong model is only part of a useful system.
 
