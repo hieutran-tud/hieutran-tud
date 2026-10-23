@@ -25,6 +25,11 @@ topology, gradients, optimization, and geometry interact through configurable
 MLPs, neural regression, probabilistic classification, GANs, and WGANs. The
 repository also contains end-to-end synthetic and MNIST notebooks.
 
+### [qudt-unit-engine](https://github.com/hieutran-tud/qudt-unit-engine)
+
+A QUDT-backed unit interpretation engine that combines deterministic unit algebra,
+multilingual normalization, and LLM-assisted parsing with semantic validation.
+
 ## Approach
 
 > A strong model is only part of a useful system.
